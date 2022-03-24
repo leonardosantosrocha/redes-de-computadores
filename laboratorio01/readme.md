@@ -29,4 +29,4 @@ CC05D
 
 ### Como executar todos os programas?
 > Com os arquivos "cs1.py" e "cs2.py" baixados e atualizados, realize o download e execute o programa "exec.bat".
-> Caso tenho erro na execução do arquivo "exec.bat", abra-o em um editor de texto e altere o texto "python" para "python3".
+> Caso tenho erro na execução do arquivo "exec.bat", abra-o em um editor de texto e altere o texto "python" para "python3". 
