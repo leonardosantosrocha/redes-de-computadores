@@ -4,7 +4,6 @@
 ### Laboratório 01 - Comunicação Local com Protocolo UDP em Python
 > Leonardo Santos da Rocha | 32092261</br>
 Vitor de Sousa Uema | 32028555</br>
-Talyta Scaramuzzo | 32079915</br>
 CC05D
 
 </br>
